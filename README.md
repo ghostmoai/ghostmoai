@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Manuel 🇦🇷</h1>
+<h1 align="center">Hi, I'm Manuel </h1>
 
-<h3 align="center">Software Engineer | Backend & Systems Developer</h3>
+<h3 align="center">Software Engineer | full & Systems Developer</h3>
 
 <p align="center">
   <i>Computer Engineer focused on robust backend systems, automation, and infrastructure.</i>
