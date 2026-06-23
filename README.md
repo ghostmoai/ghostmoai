@@ -55,3 +55,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Argentina-75AADB?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v3xWHzgb1SAkJW6zrJ/giphy.gif" alt="Argentina Flag" width="100" />
+</p>
